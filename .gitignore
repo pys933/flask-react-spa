@@ -1,12 +1,10 @@
 #### FRONTEND ####
 node_modules/
 /static/
-frontend/app/config.js
 
 #### BACKEND ####
 *.py[cod]
 *.sqlite
-backend/config.py
 celerybeat-schedule
 celerybeat-schedule.db
 celerybeat.pid
@@ -54,4 +52,3 @@ output/*/index.html
 
 # Sphinx
 docs/_build
-
